@@ -2,7 +2,7 @@
 Bio
 # Hi, I'm Daisy 🌸
 
-I'm a third-year B.Tech student working on building intelligent, accessible machine learning systems — especially in vision-language and medical AI domains.
+I'm a Computer Science Engineering student working on building intelligent, accessible machine learning systems — especially in vision-language and medical AI domains.
 
 🧠 My work blends:
 - **Deep Learning** – Vision Transformers, NLP, and model deployment
